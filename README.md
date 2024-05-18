@@ -1,4 +1,4 @@
-# Song Genre Classifier
+# Spotify Genre Classifier
 
 ## Motivation
 
